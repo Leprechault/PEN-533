@@ -1,4 +1,4 @@
-tratamentos	rep    	 acaros
+tratamentos	  rep acaros
 sem_predador	r1	1181
 sem_predador	r2	1083
 sem_predador	r3	1603
