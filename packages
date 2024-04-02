@@ -1,6 +1,7 @@
 install.packages(c("lattice",
 "car",
 "MASS",
+"lsmeans",
 "hnp",
 "lme4",
 "bbmle",
